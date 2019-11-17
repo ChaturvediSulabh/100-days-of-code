@@ -7,3 +7,4 @@ The log of my #100DaysOfCode challenge. Started on [November 16, Saturday, 2019]
 ### R1D1 
 Complete Build Blocks of The Odin Project .completed Project 3, link to my work https://github.com/ChaturvediSulabh/the-odin-project/blob/master/Building_Blocks/project3/substrings.rb , link to the problem https://www.theodinproject.com/lessons/building-blocks#project-3-substrings
 ### R1D2
+Started working on building a Linux Command Line Log parser tool. link to my work - https://github.com/ChaturvediSulabh/log_parser
