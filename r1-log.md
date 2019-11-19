@@ -10,3 +10,5 @@ Complete Build Blocks of The Odin Project .completed Project 3, link to my work 
 Started working on building a Linux Command Line Log parser tool. link to my work - https://github.com/ChaturvediSulabh/log_parser
 ### R1D3
 Added func to handle user-inputs and minor exception handling. link to my work - https://github.com/ChaturvediSulabh/log_parser
+### R1D4
+Added Director Handlings and updated view in MVC stub ink to my work - https://github.com/ChaturvediSulabh/log_parser
