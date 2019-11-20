@@ -12,3 +12,5 @@ Started working on building a Linux Command Line Log parser tool. link to my wor
 Added func to handle user-inputs and minor exception handling. link to my work - https://github.com/ChaturvediSulabh/log_parser
 ### R1D4
 Added Director Handlings and updated view in MVC stub ink to my work - https://github.com/ChaturvediSulabh/log_parser
+### R1D5
+Built A NIGHT AT THE MOVIES program - https://www.codecademy.com/courses/learn-ruby/lessons/a-night-at-the-movies/exercises/what-youll-be-building-5?action=resume_content_item
