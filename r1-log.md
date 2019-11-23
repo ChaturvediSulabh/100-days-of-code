@@ -16,5 +16,5 @@ Added Director Handlings and updated view in MVC stub ink to my work - https://g
 Built A NIGHT AT THE MOVIES program - https://www.codecademy.com/courses/learn-ruby/lessons/a-night-at-the-movies/exercises/what-youll-be-building-5?action=resume_content_item
 ### R1D6
 Practise more Ruby - https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/when-and-then-the-case-statement?action=resume_content_item
-### R1D7 
+### R1D8 
 https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/collect-em-all?action=resume_content_item
