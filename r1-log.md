@@ -18,3 +18,5 @@ Built A NIGHT AT THE MOVIES program - https://www.codecademy.com/courses/learn-r
 Practise more Ruby - https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/when-and-then-the-case-statement?action=resume_content_item
 ### R1D8 
 https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/collect-em-all?action=resume_content_item
+### R1D10
+https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/quick-review?action=resume_content_item
