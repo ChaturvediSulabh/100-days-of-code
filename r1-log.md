@@ -20,3 +20,5 @@ Practise more Ruby - https://www.codecademy.com/courses/learn-ruby/lessons/the-z
 https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/collect-em-all?action=resume_content_item
 ### R1D10
 https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/quick-review?action=resume_content_item
+### R1D11
+Continuing with The Odin Project (Advanced Building Blocks of Ruby) - https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks?ref=lnav
